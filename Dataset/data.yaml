@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['plates']
+
+roboflow:
+  workspace: dzmitry-manchak
+  project: plates-o94ru
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dzmitry-manchak/plates-o94ru/dataset/8
