@@ -28,7 +28,7 @@ CHARACTER_AREA_MAX = (((47 * 72) * 0.5) / (520 * 114)) * 1.504
 MIN_CHAR_COUNT = 7
 MAX_CHAR_COUNT = 8
 
-USE_TESSERACT = True
+USE_TESSERACT = False
 USE_SYNTAX_ANALISYS = True
 
 TESSRACT_PATH = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
